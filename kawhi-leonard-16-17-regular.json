@@ -1,1 +1,1 @@
-{"schema":["shot_made_flag","loc_x","loc_y"],"data":[["made",13,16.35],["missed",12,15.35]]}
+{"schema":["shot_made_flag","loc_x","loc_y"],"data":[["made",13,16.35],["missed",12,15.35],["missed",-0.9,6.35],["made",20.9,8.85],["made",-10.9,8.85],["made",0,0],["made",1,0.1],["made",2,0.2],["made",3,0.3],["made",4,0.4],["made",5,0.5],["made",6,0.6],["made",7,0.7],["made",8,0.8],["made",9,0.9],["made",10,1],["made",11,1.1],["made",12,1.2],["made",13,1.3],["made",14,1.4],["made",15,1.5],["made",16,1.6],["made",17,1.7],["made",18,1.8],["made",19,1.9]]}
